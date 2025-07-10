@@ -107,7 +107,7 @@ export default function TechCraftHomepage() {
                 <Users className="w-16 h-16 text-purple-400 mb-6" />
                 <h3 className="text-2xl font-semibold text-white mb-4">Trusted by 500+ Companies</h3>
                 <p className="text-gray-300">
-                  From startups to enterprise, we've delivered solutions that drive growth and innovation.
+                  From startups to enterprise, we&aposve delivered solutions that drive growth and innovation.
                 </p>
               </div>
             </div>
@@ -121,9 +121,9 @@ export default function TechCraftHomepage() {
           <h2 className="text-4xl font-bold text-center text-white mb-16">Get In Touch</h2>
           <div className="grid md:grid-cols-2 gap-12">
             <div>
-              <h3 className="text-2xl font-semibold text-white mb-6">Let's Build Something Amazing</h3>
+              <h3 className="text-2xl font-semibold text-white mb-6">Let&aposs Build Something Amazing</h3>
               <p className="text-gray-300 mb-8">
-                Ready to transform your ideas into reality? Contact us today and let's discuss how we can help your business thrive.
+                Ready to transform your ideas into reality? Contact us today and let&aposs discuss how we can help your business thrive.
               </p>
               <div className="space-y-4">
                 <div className="flex items-center space-x-3">
