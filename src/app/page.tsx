@@ -251,9 +251,9 @@ export default function ModernTechCraftHomepage() {
       <section id="contact" className="py-24 relative">
         <div className="container mx-auto px-6">
           <div className="text-center mb-20">
-            <h2 className="text-5xl font-bold text-white mb-6">Let's Build Something Amazing</h2>
+            <h2 className="text-5xl font-bold text-white mb-6">Build Something Amazing with us!</h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              Ready to transform your vision into reality? Get in touch and let's discuss how we can elevate your business.
+              Ready to transform your vision into reality? Get in touch with us and discuss how we can elevate your business.
             </p>
           </div>
           
